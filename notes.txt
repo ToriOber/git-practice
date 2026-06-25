@@ -1,0 +1,2 @@
+Today I'm learning how to use Git to track changes and commit my work.
+Three git commands I learned today: git add, git commit, git push.
